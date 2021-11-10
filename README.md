@@ -1,6 +1,8 @@
 # Exigo
 University interview helper with expected questions
 
+![Exigo](./Exigo.png)
+
 ## 동작 방식
 `exigo.exe` 파일과 같은 경로에 `questions.txt` 파일이 존재해야 동작합니다.
 `questions.txt` 파일은 다음과 같은 형식으로 구성됩니다.
